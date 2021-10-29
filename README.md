@@ -2,6 +2,10 @@
 
 This is more like a tool box for me. Tryna create more tools for myself. 
 
+Skills:
+1. Python (matplotlib,pandas,numpy.....)
+2. C++ (beginners level, gimme some time to learn moree)
+
 Current side-project interest(with rankings):
 1. MEAN stack of web develoment
 2. Machine Learning (image processing)
